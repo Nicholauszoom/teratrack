@@ -31,7 +31,7 @@
 							<div class="col-lg-7">
 								<div class="text">
 								<h1 style="color: white;">YOUR GPS <span>TRACKING</span> TELEMATICS IOT TERATECH<span>PRODUCT</span></h1>
-									<p style="color: white;">Teratrack will be near your to ensure effective tracking of facilities</p>
+									<p style="color: white;">Teratrack will be near your to ensure effective tracking of your facilities</p>
 									<div class="button">
 										<a href="https://vts.ttel.co.tz/" class="btn">START TRACK</a>
 										
@@ -251,7 +251,7 @@
 				<div class="row">
 					<div class="col-lg-12 col-md-12 col-12">
 						<div class="content">
-							<h2>Join over 200 satisfied customers and let's work together!</h2>
+							<h2>Join over 100 satisfied customers and let's work together!</h2>
 							<p>Experience the difference with Teratrack – the leading GPS tracking and telematics provider. Discover innovative solutions that enhance efficiency, streamline operations, and maximize your business's potential. Don't settle for less when you can have the best. Take control with Teratrack today!</p>
 							<div class="button">
 								<a href="/contactus" class="btn">Contact Now</a>
