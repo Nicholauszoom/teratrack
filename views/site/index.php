@@ -13,7 +13,7 @@
 							<div class="col-lg-7">
 								<div class="text">
 									<h1 style="color: white;">YOUR GPS <span>TRACKING</span> TELEMATICS IOT TERATECH<span>PRODUCT</span></h1>
-									<p style="color: white;">Teratrack Tanzania will help your to increase profit in your bussiness</p>
+									<p style="color: white;">Teratrack is dedicated to being by your side, providing seamless facility tracking.</p>
 									<div class="button">
 										<a href="https://vts.ttel.co.tz/" class="btn">START TRACK</a>
 										
@@ -31,7 +31,7 @@
 							<div class="col-lg-7">
 								<div class="text">
 								<h1 style="color: white;">YOUR GPS <span>TRACKING</span> TELEMATICS IOT TERATECH<span>PRODUCT</span></h1>
-									<p style="color: white;">Teratrack will be near your to ensure effective tracking of your facilities</p>
+									<p style="color: white;">Experience increased profitability in your business with Teratrack Tanzania's expertise.</p>
 									<div class="button">
 										<a href="https://vts.ttel.co.tz/" class="btn">START TRACK</a>
 										
@@ -49,7 +49,7 @@
 							<div class="col-lg-7">
 								<div class="text">
 								<h1 style="color: white;">YOUR GPS <span>TRACKING</span> TELEMATICS IOT TERATECH<span>PRODUCT</span></h1>
-									<p style="color: white;">Teratrack will be near your to ensure efficient fleet management</p>
+									<p style="color: white;">Count on Teratrack's proximity to deliver streamlined fleet management services.</p>
 									<div class="button">
 										<a href="https://vts.ttel.co.tz/" class="btn">START TRACK</a>
 										
