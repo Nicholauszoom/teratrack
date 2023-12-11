@@ -8,7 +8,7 @@
 							<p>                At teratrack, we provide a comprehensive school bus tracking service to ensure the safety and efficiency of school transportation. Our advanced technology enables parents, school administrators, and transportation staff to have real-time visibility and control over school bus operations.</p>
 							<div class="button">
 								<a href="/contactus" class="btn">Contact Now</a>
-								<a href="/" class="btn second">Learn More<i class="fa fa-long-arrow-right"></i></a>
+								
 							</div>
 						</div>
 					</div>
@@ -27,7 +27,7 @@
 						<div class="section-title">
 							<h2>School Bus Tracking</h2>
 							<img src="img/section-img.png" alt="#">
-							<p>Our advanced technology enables parents, school administrators, and transportation staff to have real-time visibility and control over school bus operations.</p>
+							<p style="text-align: center;">Our advanced technology enables parents, school administrators, and transportation staff to have real-time visibility and control over school bus operations.</p>
 						</div>
 					</div>
 				</div>

@@ -68,9 +68,25 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
 		text-align:justify;
 	}
 
-   
+    /* Hide top bar in mobile view */
+    @media (max-width: 767px) {
+        .topbar {
+            display: none;
+        }
+    }
 
+ /* Custom styles for the logo */
+ .logo img {
+        max-width: 100%; /* Ensure the logo scales within its container */
+        height: auto; /* Preserve the aspect ratio */
+    }
 
+    /* Adjust logo size in mobile view */
+    @media (max-width: 767px) {
+        .logo img {
+            max-width: 70%; /* Reduce the logo size */
+        }
+    }
 </style>
     <?php $this->head() ?>
 </head>
@@ -79,7 +95,7 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
 
 <header class="header">
   <!-- Topbar -->
-  <div class="topbar">
+  <div class="topbar" style="background-color: black; color: white;">
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-6 col-md-5 col-12">
@@ -92,8 +108,8 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
 						<div class="col-lg-6 col-md-7 col-12">
 							<!-- Top Contact -->
 							<ul class="top-contact">
-								<li><i class="fa fa-phone"></i>Tel/Fax: +255222701612</li>
-								<li><i class="fa fa-envelope"></i><a href="mailto:info@teratech.co.tz">info@teratech.co.tz</a></li>
+								<li style="color: white;"><i class="fa fa-phone"></i>Tel/Fax: +255222701612</li>
+								<li style="color: white;"><i class="fa fa-envelope"></i><a href="mailto:info@teratech.co.tz">info@teratech.co.tz</a></li>
 							</ul>
 							<!-- End Top Contact -->
 						</div>
@@ -168,7 +184,7 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
 			<div class="footer-top">
 				<div class="container">
 					<div class="row">
-						<div class="col-lg-3 col-md-6 col-12">
+						<div class="col-lg-5 col-md-6 col-12">
 							<div class="single-footer">
 								<h2>About Us</h2>
 								<p>Tera Technologies :Speed, Quality and Integrity</p>
@@ -181,7 +197,7 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
 								<!-- End Social -->
 							</div>
 						</div>
-						<div class="col-lg-3 col-md-6 col-12">
+						<div class="col-lg-4 col-md-6 col-12">
 							<div class="single-footer f-link">
 								<h2>Quick Links</h2>
 								<div class="row">

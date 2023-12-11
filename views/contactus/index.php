@@ -16,7 +16,7 @@ use yii\widgets\ActiveForm;
 							<p>At our company, we prioritize customer satisfaction above all else. We take pride in providing the best services that not only meet but exceed our customers' expectations. With our commitment to excellence and attention to detail, we ensure that every interaction and experience with us is nothing short of exceptional.</p>
 							<div class="button">
 								<a href="/contactus" class="btn">Contact Now</a>
-								<a href="/" class="btn second">Learn More<i class="fa fa-long-arrow-right"></i></a>
+								
 							</div>
 						</div>
 					</div>
@@ -33,7 +33,7 @@ use yii\widgets\ActiveForm;
 						<div class="section-title">
 							<h2>We Are Always Ready to Help You. Message Us</h2>
 							<img src="img/section-img.png" alt="#">
-							<p>Fill the following form to send us a comment</p>
+							<p style="text-align: center;">Fill the following form to send us a comment</p>
 						</div>
 					</div>
 				</div>

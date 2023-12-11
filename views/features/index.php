@@ -8,7 +8,7 @@
 							<p>At our company, we prioritize customer satisfaction above all else. We take pride in providing the best services that not only meet but exceed our customers' expectations. With our commitment to excellence and attention to detail, we ensure that every interaction and experience with us is nothing short of exceptional.</p>
 							<div class="button">
 								<a href="/contactus" class="btn">Contact Now</a>
-								<a href="/" class="btn second">Learn More<i class="fa fa-long-arrow-right"></i></a>
+							
 							</div>
 						</div>
 					</div>
@@ -27,7 +27,7 @@
 						<div class="section-title">
 							<h2>Our Services</h2>
 							<img src="img/section-img.png" alt="#">
-							<p>We Offer The Best Quality Service for You</p>
+							<p style="text-align: center;">We Offer The Best Quality Service for You</p>
 						</div>
 					</div>
 				</div>

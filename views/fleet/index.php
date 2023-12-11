@@ -8,7 +8,7 @@
 							<p>At teratrack, we provide comprehensive fleet management solutions to streamline and optimize your vehicle operations. Our fleet management service is designed to help businesses of all sizes effectively manage their fleet of vehicles. From tracking and monitoring vehicle locations in real-time to analyzing driver behavior and vehicle performance, our advanced technology empowers you with valuable insights to make informed decisions.</p>
 							<div class="button">
 								<a href="/contactus" class="btn">Contact Now</a>
-								<a href="/" class="btn second">Learn More<i class="fa fa-long-arrow-right"></i></a>
+								
 							</div>
 						</div>
 					</div>
@@ -26,7 +26,7 @@
 						<div class="section-title">
 							<h2>Fleet Management</h2>
 							<img src="img/section-img.png" alt="#">
-							<p>Our fleet management service is designed to help businesses of all sizes effectively.</p>
+							<p style="text-align: center;">Our fleet management service is designed to help businesses of all sizes effectively.</p>
 						</div>
 					</div>
 				</div>

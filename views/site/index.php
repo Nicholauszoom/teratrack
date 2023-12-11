@@ -16,7 +16,7 @@
 									<p style="color: white;">Teratrack Tanzania will help your to increase profit in your bussiness</p>
 									<div class="button">
 										<a href="https://vts.ttel.co.tz/" class="btn">START TRACK</a>
-										<a href="/features" class="btn primary">Learn More</a>
+										
 									</div>
 								</div>
 							</div>
@@ -34,7 +34,7 @@
 									<p style="color: white;">Teratrack will be near your to ensure effective tracking of facilities</p>
 									<div class="button">
 										<a href="https://vts.ttel.co.tz/" class="btn">START TRACK</a>
-										<a href="/aboutus" class="btn primary">About Us</a>
+										
 									</div>
 								</div>
 							</div>
@@ -52,7 +52,7 @@
 									<p style="color: white;">Teratrack will be near your to ensure efficient fleet management</p>
 									<div class="button">
 										<a href="https://vts.ttel.co.tz/" class="btn">START TRACK</a>
-										<a href="/contactus" class="btn primary">Contact Now</a>
+										
 									</div>
 								</div>
 							</div>
@@ -192,7 +192,7 @@
 						<div class="section-title">
 							<h2>We Offer Different Services</h2>
 							<img src="img/section-img.png" alt="#">
-							<p>Specialized Tracking Solutions for Equipment, Fleets, School Buses, and Families.</p>
+							<p style="text-align: center;">Specialized Tracking Solutions for Equipment, Fleets, School Buses, and Families.</p>
 						</div>
 					</div>
 				</div>
@@ -255,7 +255,7 @@
 							<p>Experience the difference with Teratrack – the leading GPS tracking and telematics provider. Discover innovative solutions that enhance efficiency, streamline operations, and maximize your business's potential. Don't settle for less when you can have the best. Take control with Teratrack today!</p>
 							<div class="button">
 								<a href="/contactus" class="btn">Contact Now</a>
-								<a href="/" class="btn second">Learn More<i class="fa fa-long-arrow-right"></i></a>
+								
 							</div>
 						</div>
 					</div>
@@ -273,7 +273,7 @@
 						<div class="section-title">
 							<h2>Our Services</h2>
 							<img src="img/section-img.png" alt="#">
-							<p>we specialize in providing cutting-edge tracking solutions that redefine the way businesses monitor and manage their assets.</p>
+							<p style="text-align: center;">we specialize in providing cutting-edge tracking solutions that redefine the way businesses monitor and manage their assets.</p>
 						</div>
 					</div>
 				</div>
@@ -385,64 +385,64 @@
 		<!-- End Blog Area -->
 		
 		<!-- Start clients -->
-		<div class="clients overlay">
+		<div class="clients overlay" style="background-color: white;">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 col-md-12 col-12">
 						<div class="owl-carousel clients-slider">
-							<div class="single-clients">
-								<img src="images/ASILIFOOD.png" alt="#">
+							<div class="single-clients" >
+								<img src="images/ASILIFOOD.png" alt="#" style="background-color: white;">
 							</div>
 							<div class="single-clients">
-								<img src="images/Abood.png" alt="#">
+								<img src="images/Abood.png" alt="#" style="background-color: white;">
 							</div>
 							<div class="single-clients">
-								<img src="images/DAR LUX.png" alt="#">
+								<img src="images/DAR LUX.png" alt="#" style="background-color: white;">
 							</div>
 							<div class="single-clients">
-								<img src="images/EDINOX.png" alt="#">
+								<img src="images/EDINOX.png" alt="#" style="background-color: white;">
 							</div>
 							<div class="single-clients">
-								<img src="images/HAPPY NATION.png" alt="#">
+								<img src="images/HAPPY NATION.png" alt="#" style="background-color: white;">
 							</div>
 							<div class="single-clients">
-								<img src="images/jambo.png" alt="#">
+								<img src="images/jambo.png" alt="#" style="background-color: white;">
 							</div>
 							<div class="single-clients">
-								<img src="images/latra.png" alt="#">
+								<img src="images/latra.png" alt="#" style="background-color: white;">
 							</div>
 							<div class="single-clients">
-								<img src="images/lfs.png" alt="#">
+								<img src="images/lfs.png" alt="#" style="background-color: white;">
 							</div>
 							<div class="single-clients">
-								<img src="images/maturelogistics.png" alt="#">
-							</div>
-
-							<div class="single-clients">
-								<img src="images/NBS.png" alt="#">
-							</div>
-							<div class="single-clients">
-								<img src="images/NEW FORCE.png" alt="#">
-							</div>
-							<div class="single-clients">
-								<img src="images/OCRA.png" alt="#">
+								<img src="images/maturelogistics.png" alt="#" style="background-color: white;">
 							</div>
 
 							<div class="single-clients">
-								<img src="images/super feo.png" alt="#">
+								<img src="images/NBS.png" alt="#" style="background-color: white;">
 							</div>
 							<div class="single-clients">
-								<img src="images/TAZARA.png" alt="#">
+								<img src="images/NEW FORCE.png" alt="#" style="background-color: white;">
+							</div>
+							<div class="single-clients">
+								<img src="images/OCRA.png" alt="#" style="background-color: white;">
 							</div>
 
 							<div class="single-clients">
-								<img src="images/UHUMA.png" alt="#">
+								<img src="images/super feo.png" alt="#" style="background-color: white;">
 							</div>
 							<div class="single-clients">
-								<img src="images/WFC.png" alt="#">
+								<img src="images/TAZARA.png" alt="#" style="background-color: white;">
+							</div>
+
+							<div class="single-clients">
+								<img src="images/UHUMA.png" alt="#" style="background-color: white;">
 							</div>
 							<div class="single-clients">
-								<img src="images/WMA.png" alt="#">
+								<img src="images/WFC.png" alt="#" style="background-color: white;">
+							</div>
+							<div class="single-clients">
+								<img src="images/WMA.png" alt="#" style="background-color: white;">
 							</div>
 						</div>
 					</div>

@@ -8,7 +8,7 @@
 							<p>At teratrack, we offer a reliable and user-friendly family tracking service that helps you stay connected and ensure the safety of your loved ones. Our family tracking service utilizes advanced technology to provide real-time location tracking and peace of mind.</p>
 							<div class="button">
 								<a href="/contactus" class="btn">Contact Now</a>
-								<a href="/" class="btn second">Learn More<i class="fa fa-long-arrow-right"></i></a>
+								
 							</div>
 						</div>
 					</div>
@@ -25,7 +25,7 @@
 						<div class="section-title">
 							<h2>Family Tracking</h2>
 							<img src="img/section-img.png" alt="#">
-							<p>Our family tracking service utilizes advanced technology to provide real-time location tracking and peace of mind.</p>
+							<p style="text-align: center;">Our family tracking service utilizes advanced technology to provide real-time location tracking and peace of mind.</p>
 						</div>
 					</div>
 				</div>

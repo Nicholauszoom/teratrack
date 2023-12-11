@@ -8,7 +8,7 @@
 							<p>At teratrack, we specialize in providing cutting-edge construction equipment tracking solutions to enhance productivity, improve efficiency, and safeguard your valuable assets. Our construction equipment tracking service utilizes state-of-the-art technology to give you real-time visibility and control over your equipment fleet.</p>
 							<div class="button">
 								<a href="/contactus" class="btn">Contact Now</a>
-								<a href="/" class="btn second">Learn More<i class="fa fa-long-arrow-right"></i></a>
+								
 							</div>
 						</div>
 					</div>
@@ -27,7 +27,7 @@
 						<div class="section-title">
 							<h2>Construction Equipments Tracking</h2>
 							<img src="img/section-img.png" alt="#">
-							<p>Our construction equipment tracking service utilizes state-of-the-art technology to give you real-time visibility and control over your equipment fleet.</p>
+							<p style="text-align: center;">Our construction equipment tracking service utilizes state-of-the-art technology to give you real-time visibility and control over your equipment fleet.</p>
 						</div>
 					</div>
 				</div>

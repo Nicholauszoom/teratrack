@@ -8,7 +8,7 @@
 							<p>At our company, we prioritize customer satisfaction above all else. We take pride in providing the best services that not only meet but exceed our customers' expectations. With our commitment to excellence and attention to detail, we ensure that every interaction and experience with us is nothing short of exceptional.</p>
 							<div class="button">
 								<a href="/contactus" class="btn">Contact Now</a>
-								<a href="/" class="btn second">Learn More<i class="fa fa-long-arrow-right"></i></a>
+								
 							</div>
 						</div>
 					</div>
@@ -27,7 +27,7 @@
 						<div class="section-title">
 							<h2>Who are we...</h2>
 							<img src="img/section-img.png" alt="#">
-							<p>Specialized Tracking Solutions for Equipment, Fleets, School Buses, and Families.</p>
+							<p style="text-align: center;">Specialized Tracking Solutions for Equipment, Fleets, School Buses, and Families.</p>
 						</div>
 					</div>
 				</div>
