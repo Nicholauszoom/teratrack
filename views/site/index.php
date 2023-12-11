@@ -1,4 +1,8 @@
-
+<style>
+	.row p{
+		text-align:justify;
+	}
+</style>
 		<!-- Slider Area -->
 		<section class="slider">
 			<div class="hero-slider">
@@ -68,6 +72,7 @@
 					<div class="row">
 						<div class="col-lg-4 col-md-6 col-12 ">
 							<!-- single-schedule -->
+							
 							<div class="single-schedule first">
 								<div class="inner">
 									<div class="icon">
@@ -75,12 +80,13 @@
 									</div>
 									<div class="single-content">
 										<span>Tera Track</span>
-										<h4>Emergency Cases</h4>
+										<h4>Contact Us</h4>
 										<p>Call us for any tracking emergency</p>
-										<a href="/contactus">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
+										<a href="/contactus">Read More<i class="fa fa-long-arrow-right"></i></a>
 									</div>
 								</div>
 							</div>
+
 						</div>
 						<div class="col-lg-4 col-md-6 col-12">
 							<!-- single-schedule -->
@@ -92,8 +98,8 @@
 									<div class="single-content">
 										<span>Tera Track</span>
 										<h4>Features</h4>
-										<p>Services we offer.</p>
-										<a href="/features">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
+										<p>Our Best Services We Offer.</p>
+										<a href="/features">Read More<i class="fa fa-long-arrow-right"></i></a>
 									</div>
 								</div>
 							</div>
@@ -107,12 +113,12 @@
 									</div>
 									<div class="single-content">
 										<span>Tera Track</span>
-										<h4>Opening Hours</h4>
+										<h4>About Us</h4>
 										<ul class="time-sidual">
-											<li class="day">Monday - Friday <span>8.00-17.00</span></li>
-											
+											<li class="day">Monday - Saturday <span>8.00-17.00</span></li>
+											<a href="/aboutus">Read More<i class="fa fa-long-arrow-right"></i></a>
 										</ul>
-										<a href="/aboutus">LEARN MORE<i class="fa fa-long-arrow-right"></i></a>
+										
 									</div>
 								</div>
 							</div>
@@ -195,7 +201,7 @@
 						<!-- Start Choose Left -->
 						<div class="choose-left">
 							<h3>TeraTrack a Product Of TeraTech</h3>
-							<p>Through cutting-edge technology and innovative software, Teratrack enables businesses to track and monitor their vehicles, equipment, and other valuable assets with precision. The company's advanced GPS tracking systems provide accurate location data, allowing businesses to streamline logistics, improve fleet management, and enhance overall productivity.</p>
+							<p style="text-align:justify;">Through cutting-edge technology and innovative software, Teratrack enables businesses to track and monitor their vehicles, equipment, and other valuable assets with precision. The company's advanced GPS tracking systems provide accurate location data, allowing businesses to streamline logistics, improve fleet management, and enhance overall productivity.</p>
 							
 							<div class="row">
 								<div class="col-lg-6">

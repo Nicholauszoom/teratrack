@@ -63,7 +63,15 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
         <link rel="stylesheet" href="/css/normalize.css">
         <link rel="stylesheet" href="/style.css">
         <link rel="stylesheet" href="/css/responsive.css">
-		
+		<style>
+	.row p{
+		text-align:justify;
+	}
+
+   
+
+
+</style>
     <?php $this->head() ?>
 </head>
 <body>
@@ -182,10 +190,10 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
 											<li><a href="/"><i class="fa fa-caret-right" aria-hidden="true"></i>Home</a></li>
 											<li><a href="/aboutus"><i class="fa fa-caret-right" aria-hidden="true"></i>About Us</a></li>
 											<li><a href="/features"><i class="fa fa-caret-right" aria-hidden="true"></i>Feature</a></li>
-											<li><a href="/contactus"><i class="fa fa-caret-right" aria-hidden="true"></i>Contact </a></li>
-											<li><a href="/fleet"><i class="fa fa-caret-right" aria-hidden="true"></i>Fleet </a></li>
-											<li><a href="/family"><i class="fa fa-caret-right" aria-hidden="true"></i>Family </a></li>
-											<li><a href="/school"><i class="fa fa-caret-right" aria-hidden="true"></i>School</a></li>
+											<li><a href="/contactus"><i class="fa fa-caret-right" aria-hidden="true"></i>Contact Us</a></li>
+											<li><a href="/fleet"><i class="fa fa-caret-right" aria-hidden="true"></i>Fleet Management</a></li>
+											<li><a href="/family"><i class="fa fa-caret-right" aria-hidden="true"></i>Family Tracking</a></li>
+											<li><a href="/school"><i class="fa fa-caret-right" aria-hidden="true"></i>School Bus Tracking</a></li>
 											
 											
 										</ul>
@@ -197,9 +205,9 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
 						<div class="col-lg-3 col-md-6 col-12">
 							<div class="single-footer">
 								<h2>Open Hours</h2>
-								<p>Tera Tech Open Hours</p>
+								<p>Offices Open Hours</p>
 								<ul class="time-sidual">
-									<li class="day">Monday - Friday <span>8.00-17.00</span></li>
+									<li class="day">Monday - Saturday <span>8.00-17.00</span></li>
 									
 									
 								</ul>
